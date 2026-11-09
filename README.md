@@ -2,7 +2,7 @@
 
 [Скачать последнюю сборку](https://github.com/PystoyPlayer/superhub-toolkit-safari/releases/latest) · [Инструкция Superhub Wiki](https://wiki.superhub.team/doc/ispolzovanie-Fo1ol7rtzW)
 
-Superhub Toolkit — внутренний инструмент для сотрудников Superhub. Для работы нужен аккаунт портала Superhub, который также даёт доступ к порталу заявок. Сборка подходит для Mac с Apple Silicon и Intel и требует Safari 18.4 или новее.
+Superhub Toolkit — внутренний инструмент для сотрудников. Сборка подходит для Mac с Apple Silicon и Intel и требует Safari 18.4 или новее.
 
 ## Установка
 
