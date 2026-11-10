@@ -1,10 +1,10 @@
-# Superhub Toolkit для Safari
+# Superhub Toolkit для Safari и Chrome
 
-[Скачать последнюю сборку](https://github.com/PystoyPlayer/superhub-toolkit-safari/releases/latest) · [Инструкция Superhub Wiki](https://wiki.superhub.team/doc/ispolzovanie-Fo1ol7rtzW)
+[Скачать для Safari](https://github.com/PystoyPlayer/superhub-toolkit-safari/releases/latest) · [Скачать для Chrome](https://github.com/PystoyPlayer/superhub-toolkit-safari/releases/tag/chrome-v26.8.27) · [Инструкция Superhub Wiki](https://wiki.superhub.team/doc/ispolzovanie-Fo1ol7rtzW)
 
-Superhub Toolkit — внутренний инструмент для сотрудников. Сборка подходит для Mac с Apple Silicon и Intel и требует Safari 18.4 или новее.
+Superhub Toolkit — внутренний инструмент для сотрудников. Для Safari нужен Mac с Apple Silicon или Intel и Safari 18.4 или новее. Для Chrome нужен браузер версии 114 или новее.
 
-## Установка
+## Установка в Safari
 
 1. В разделе **Assets** последнего релиза скачайте `Superhub-Toolkit-Safari-…zip`. Распакуйте архив, перенесите **Superhub Toolkit.app** в «Программы» и запустите.
 2. В Safari откройте **Настройки → Расширения** и включите **Superhub Toolkit**. С версии 26.8.26 сборка подписана Developer ID и нотарифицирована Apple.
@@ -12,6 +12,14 @@ Superhub Toolkit — внутренний инструмент для сотру
 4. В настройках Toolkit войдите с аккаунтом портала Superhub и обновите Chatwoot сочетанием **⌘R**.
 
 Если «Заявки», «Тарифы» или «Ноды» остаются светлыми в тёмном Chatwoot, откройте сайт по ссылке в подсказке, разрешите Toolkit доступ и обновите Chatwoot.
+
+## Установка в Chrome
+
+1. Скачайте `Superhub-Toolkit-Chrome-26.8.27.zip` из релиза Chrome и распакуйте в папку, где она будет храниться.
+2. Откройте `chrome://extensions` и включите **Режим разработчика**. Нажмите **Загрузить распакованное расширение** и выберите папку с `manifest.json`.
+3. Откройте настройки Toolkit через значок на панели Chrome и войдите в рабочий аккаунт портала. Обновите Chatwoot. После полного выхода из Chrome войдите в Toolkit снова.
+
+При выходе новой версии скачайте Chrome ZIP, замените файлы в той же папке и нажмите **Обновить** на карточке Toolkit в `chrome://extensions`. Ссылка на доступную версию появится в настройках расширения.
 
 ## Возможности
 
@@ -29,7 +37,7 @@ Superhub Toolkit — внутренний инструмент для сотру
 - **Внешние ссылки.** Toolkit помечает незнакомые домены в сообщениях клиентов.
 - **Статистика.** В настройках видны число открытых карточек за сегодня и время первой и последней активности.
 
-## Обновление
+## Обновление Safari
 
 Toolkit проверяет новые релизы при открытии Chatwoot или настроек расширения. Если появилась новая версия, ссылка **«Скачать Safari …»** появится рядом с номером версии внизу экрана настроек.
 
