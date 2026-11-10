@@ -1,6 +1,6 @@
 # Superhub Toolkit для Safari и Chrome
 
-[Скачать для Safari](https://github.com/PystoyPlayer/superhub-toolkit-safari/releases/latest) · [Скачать для Chrome](https://github.com/PystoyPlayer/superhub-toolkit-safari/releases/tag/chrome-v26.8.27) · [Инструкция Superhub Wiki](https://wiki.superhub.team/doc/ispolzovanie-Fo1ol7rtzW)
+[Скачать для Safari](https://github.com/PystoyPlayer/superhub-toolkit/releases/latest) · [Скачать для Chrome](https://github.com/PystoyPlayer/superhub-toolkit/releases/tag/chrome-v26.8.28) · [Инструкция Superhub Wiki](https://wiki.superhub.team/doc/ispolzovanie-Fo1ol7rtzW)
 
 Superhub Toolkit — внутренний инструмент для сотрудников. Для Safari нужен Mac с Apple Silicon или Intel и Safari 18.4 или новее. Для Chrome нужен браузер версии 114 или новее.
 
@@ -15,11 +15,13 @@ Superhub Toolkit — внутренний инструмент для сотру
 
 ## Установка в Chrome
 
-1. Скачайте `Superhub-Toolkit-Chrome-26.8.27.zip` из релиза Chrome и распакуйте в папку, где она будет храниться.
+1. Скачайте архив `Superhub-Toolkit-Chrome-…zip` из релиза Chrome и распакуйте в папку, где она будет храниться.
 2. Откройте `chrome://extensions` и включите **Режим разработчика**. Нажмите **Загрузить распакованное расширение** и выберите папку с `manifest.json`.
 3. Откройте настройки Toolkit через значок на панели Chrome и войдите в рабочий аккаунт портала. Обновите Chatwoot. После полного выхода из Chrome войдите в Toolkit снова.
 
 При выходе новой версии скачайте Chrome ZIP, замените файлы в той же папке и нажмите **Обновить** на карточке Toolkit в `chrome://extensions`. Ссылка на доступную версию появится в настройках расширения.
+
+Если установлен Chrome Toolkit 26.8.27, скачайте версию 26.8.28 вручную по ссылке вверху. С неё проверка обновлений использует новый адрес репозитория.
 
 ## Возможности
 
