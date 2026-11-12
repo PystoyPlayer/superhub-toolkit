@@ -53,12 +53,4 @@
 - **Safari.** Распакуйте новый ZIP и замените приложение в «Программах».
 - **Chrome.** Замените файлы в папке расширения и нажмите **Обновить** на странице `chrome://extensions`.
 
-На macOS скачайте [update-toolkit.py](https://github.com/PystoyPlayer/superhub-toolkit/releases/download/chrome-v26.8.35/update-toolkit.py) и запустите его с Python 3.9+.
-
-```sh
-python3 ~/Downloads/update-toolkit.py "/путь/к/папке Toolkit"
-```
-
-Скрипт скачает свежую сборку Chrome и заменит файлы в прежней папке. Затем нажмите **Обновить** на странице `chrome://extensions`.
-
 Обновите вкладку Chatwoot после установки новой версии.
