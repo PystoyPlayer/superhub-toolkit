@@ -5,7 +5,7 @@
 | Браузер | Сборка |
 | --- | --- |
 | Safari 18.4+ на Mac с Apple Silicon или Intel | [Скачать для Safari](https://github.com/PystoyPlayer/superhub-toolkit/releases/latest) |
-| Chrome 114+ | [Скачать для Chrome](https://github.com/PystoyPlayer/superhub-toolkit/releases/tag/chrome-v26.8.37) |
+| Chrome 114+ | [Скачать для Chrome](https://github.com/PystoyPlayer/superhub-toolkit/releases/tag/chrome-v26.8.38) |
 
 [Инструкция в Superhub Wiki](https://wiki.superhub.team/doc/ispolzovanie-Fo1ol7rtzW)
 
