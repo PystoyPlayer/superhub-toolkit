@@ -5,7 +5,7 @@
 | Браузер | Сборка |
 | --- | --- |
 | Safari 18.4+ на Mac с Apple Silicon или Intel | [Скачать для Safari](https://github.com/PystoyPlayer/superhub-toolkit/releases/latest) |
-| Chrome 114+ | [Скачать для Chrome](https://github.com/PystoyPlayer/superhub-toolkit/releases/tag/chrome-v26.8.38) |
+| Chrome 114+ | [Скачать для Chrome](https://github.com/PystoyPlayer/superhub-toolkit/releases/tag/chrome-v26.8.39) |
 
 [Инструкция в Superhub Wiki](https://wiki.superhub.team/doc/ispolzovanie-Fo1ol7rtzW)
 
@@ -35,7 +35,7 @@
 
 ### Вход
 
-Откройте настройки Toolkit через значок расширения, войдите с рабочим аккаунтом портала Superhub и обновите вкладку Chatwoot. В Chrome Toolkit восстанавливает вход после обновления, пока действует сессия портала. При переходе с версии до 26.8.35 войдите один раз.
+Откройте настройки Toolkit через значок расширения, войдите с рабочим аккаунтом портала Superhub и обновите вкладку Chatwoot. В Chrome Toolkit восстанавливает вход после обновления, пока действует сессия портала. При переходе с версии до 26.8.35 войдите один раз. Для повторной авторизации нажмите **Войти заново** в настройках Toolkit.
 
 ## Возможности в Chatwoot
 
